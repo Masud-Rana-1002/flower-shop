@@ -190,17 +190,68 @@ header {
 /* Hot Deal ! Sale Up To 25% Off section end here */
 
 /* Instagram section start here */
-.insta-img{
+.insta-img {
     width: 342px;
     height: 396px;
 }
-.insta-img >img{
+
+.insta-img>img {
     width: 100%;
 }
-.instagram-imgs{
+
+.instagram-imgs {
     display: flex;
     align-items: center;
     justify-content: center;
     gap: 24px;
 }
+
 /* Instagram section end here */
+/* Subscribe section start here  */
+.subscrib-section {
+    background-image: url("./Flower Asset/Rectangle\ 9.png");
+    width: 1440px;
+    height: 449px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 24px;
+}
+
+.subscrib-section>h3 {
+    color: rgb(39, 39, 39);
+    font-size: 40px;
+    font-weight: 800;
+}
+
+.subscrib-section>p {
+    color: rgba(39, 39, 39, 0.6);
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.email-subc {
+    width: 700px;
+    height: 64px;
+    border: none;
+}
+
+.email-subc[placeholder] {
+    padding: 20px;
+    color: rgba(39, 39, 39, 0.6);
+    font-size: 16px;
+    font-weight: 400;
+    margin-right: 10px;
+    border-radius: 8px;
+    background: rgb(255, 255, 255);
+}
+
+.sub-btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/* Subscribe section end here  */
