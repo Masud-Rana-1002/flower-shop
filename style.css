@@ -153,4 +153,38 @@ header {
 
 /* Delivery and support section end here */
 /* Hot Deal ! Sale Up To 25% Off section start here */
+.deal-section {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    border-radius: 8px;
+    background: rgba(229, 84, 115, 0.05);
+    height: 620px;
+}
+
+.deal-contant {
+    width: 594px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 24px;
+}
+
+.deal-contant>h3 {
+    font-size: 40px;
+    font-weight: 800;
+    color: rgb(39, 39, 39);
+}
+
+.deal-contant>h3>samp {
+    color: rgb(229, 84, 115);
+}
+
+.deal-contant>p {
+    color: rgba(39, 39, 39, 0.6);
+    font-size: 18px;
+    font-weight: 400;
+}
+
 /* Hot Deal ! Sale Up To 25% Off section end here */
