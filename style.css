@@ -83,24 +83,30 @@ header {
     font-weight: 400;
     margin: 24px auto;
 }
-.featured-section-img{
+
+.featured-section-img {
     display: flex;
     align-items: center;
     justify-content: center;
 }
+
 .flowers {
     width: 464px;
     height: 605px;
 }
-.flower-1{
+
+.flower-1 {
     background: rgba(167, 33, 98, 0.15);
 }
-.flower-2{
+
+.flower-2 {
     background: rgba(5, 151, 160, 0.15);
 }
-.flower-3{
+
+.flower-3 {
     background: rgba(71, 125, 17, 0.15);
 }
+
 .flower {
     width: 430px;
     height: 583px;
@@ -110,6 +116,7 @@ header {
     align-items: end;
     justify-content: center;
 }
+
 .flower-img-taitel {
     text-align: center;
     color: rgb(39, 39, 39);
@@ -120,3 +127,30 @@ header {
 }
 
 /* Our Featured Flowers section end here */
+
+/* Delivery and support section start here */
+.delivery-and-support {
+    width: 1440px;
+    height: 320px;
+    background-color: rgba(39, 39, 39, 0.05);
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.del-sip-contant {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.del-sip-contant>p {
+    color: rgba(39, 39, 39, 0.8);
+    font-size: 24px;
+    font-weight: 600;
+}
+
+/* Delivery and support section end here */
+/* Hot Deal ! Sale Up To 25% Off section start here */
+/* Hot Deal ! Sale Up To 25% Off section end here */
