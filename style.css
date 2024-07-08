@@ -188,3 +188,19 @@ header {
 }
 
 /* Hot Deal ! Sale Up To 25% Off section end here */
+
+/* Instagram section start here */
+.insta-img{
+    width: 342px;
+    height: 396px;
+}
+.insta-img >img{
+    width: 100%;
+}
+.instagram-imgs{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 24px;
+}
+/* Instagram section end here */
