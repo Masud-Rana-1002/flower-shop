@@ -177,7 +177,7 @@ header {
     color: rgb(39, 39, 39);
 }
 
-.deal-contant>h3>samp {
+samp {
     color: rgb(229, 84, 115);
 }
 
@@ -255,3 +255,33 @@ header {
 }
 
 /* Subscribe section end here  */
+footer {
+    background: rgb(17, 16, 16);
+    height: 449px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+
+}
+
+footer>h3 {
+    font-size: 48px;
+    font-weight: 800;
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+.foot-des {
+    color: rgba(255, 255, 255, 0.9);
+    font-size: 18px;
+    font-weight: 400;
+    text-align: center;
+}
+
+.copy-right {
+    color: rgba(255, 255, 255, 0.4);
+    font-size: 16px;
+    text-align: center;
+}
