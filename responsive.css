@@ -1,0 +1,553 @@
+/* width 320px  */
+@media screen and (max-width:320px) {
+.btn {
+    padding: 10px 20px;
+}
+section {
+    margin: 60px auto;
+}
+
+/* banner section style start here */
+header {
+    height: auto;
+    flex-direction: column;
+    text-align: center;
+    padding: 10px;
+}
+
+.banner-content {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    gap: 32px;
+}
+
+.banner-discription {
+    color: rgba(39, 39, 39, 0.6);
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.banner-img {
+    width: 100%;
+}
+
+.banner-img>img {
+    width: 100%;
+}
+
+.banner-taitel {
+    font-size: 1.8em;
+}
+
+/* banner section style end here */
+/* Our Featured Flowers section start here */
+.featured-section-content {
+    width: 100%;
+    padding: 0 5px;
+}
+
+.featured-section-content>h3 {
+    font-size: 2em;
+}
+.featured-section-img {
+  flex-direction: column;
+  width: 100%;
+  margin: 0 auto;
+  
+}
+.flower-img{
+    width: 100%;
+    height: 300px;
+    margin: 0 auto;
+}
+.flower-img  >img {
+    width: 100%;
+    height: 100%;
+}
+.flowers {
+    width: 100%;
+    margin: 10px auto;
+    height: auto;
+}
+.flower {
+ width: 95%;
+ margin: 0 auto;
+ height: auto;
+}
+
+.flower-img-taitel {
+    font-size:1.2em;
+}
+
+/* Our Featured Flowers section end here */
+
+/* Delivery and support section start here */
+.delivery-and-support {
+    width: 100%;
+    height: auto;
+    flex-direction: column;
+    gap: 20px;
+    padding: 10px;
+}
+.del-sip-contant>p {
+    font-size: 1.2em;
+    text-align: center;
+}
+/* Delivery and support section end here */
+/* Hot Deal ! Sale Up To 25% Off section start here */
+.deal-section {
+ flex-direction: column;
+    height: auto;
+    padding: 20px 10px;
+}
+
+.deal-contant {
+    width:100%;
+  text-align: center;
+    gap: 24px;
+}
+
+.deal-contant>h3 {
+    font-size: 2em;
+}
+/* Hot Deal ! Sale Up To 25% Off section end here */
+
+/* Instagram section start here */
+.insta-img {
+    width: 95%;
+    height: auto;
+    margin: auto 5% ;
+    
+}
+
+.insta-img>img {
+    width: 100%;
+}
+
+.instagram-imgs {
+    flex-direction: column;
+}
+
+/* Instagram section end here */
+/* Subscribe section start here  */
+.subscrib-section {
+    width: 100%;
+    height: 449px;
+    margin: 0 auto;
+}
+
+.subscrib-section>h3 {
+    font-size: 2em;
+}
+.email-subc {
+    margin: 10px a ;
+    width: 90%;
+    height: 64px;
+}
+
+.email-subc[placeholder] {
+    padding: 12px;
+    font-size: 12px;
+}
+.sub-btn{
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    width: 100%;
+}
+/* Subscribe section end here  */
+
+}
+/* width 480px  */
+@media screen and (min-width:321px) and (max-width:480px) {
+    .btn {
+        padding: 10px 20px;
+    }
+    section {
+        margin: 60px auto;
+    }
+    
+    /* banner section style start here */
+    header {
+        height: auto;
+        flex-direction: column;
+        text-align: center;
+        padding: 10px;
+    }
+    
+    .banner-content {
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        gap: 32px;
+    }
+    
+    .banner-discription {
+        color: rgba(39, 39, 39, 0.6);
+        font-size: 18px;
+        font-weight: 400;
+    }
+    
+    .banner-img {
+        width: 100%;
+    }
+    
+    .banner-img>img {
+        width: 100%;
+    }
+    
+    .banner-taitel {
+        font-size: 1.8em;
+    }
+    
+    /* banner section style end here */
+    /* Our Featured Flowers section start here */
+    .featured-section-content {
+        width: 100%;
+        padding: 0 5px;
+    }
+    
+    .featured-section-content>h3 {
+        font-size: 2em;
+    }
+    .featured-section-img {
+      flex-direction: column;
+      width: 100%;
+      margin: 0 auto;
+      
+    }
+    .flower-img{
+        width: 100%;
+        height: 500px;
+        margin: 0 auto;
+    }
+    .flower-img  >img {
+        width: 100%;
+        height: 100%;
+    }
+    .flowers {
+        width: 100%;
+        margin: 10px auto;
+        height: auto;
+    }
+    .flower {
+     width: 95%;
+     margin: 0 auto;
+     height: auto;
+    }
+    
+    .flower-img-taitel {
+        font-size:1.2em;
+    }
+    
+    /* Our Featured Flowers section end here */
+    
+    /* Delivery and support section start here */
+    .delivery-and-support {
+        width: 100%;
+        height: auto;
+        flex-direction: column;
+        gap: 20px;
+        padding: 10px;
+    }
+    .del-sip-contant>p {
+        font-size: 1.2em;
+        text-align: center;
+    }
+    /* Delivery and support section end here */
+    /* Hot Deal ! Sale Up To 25% Off section start here */
+    .deal-section {
+     flex-direction: column;
+        height: auto;
+        padding: 20px 10px;
+    }
+    
+    .deal-contant {
+        width:100%;
+      text-align: center;
+        gap: 24px;
+    }
+    
+    .deal-contant>h3 {
+        font-size: 2em;
+    }
+    /* Hot Deal ! Sale Up To 25% Off section end here */
+    
+    /* Instagram section start here */
+    .insta-img {
+        width: 95%;
+        height: auto;
+        margin: auto 5% ;
+        
+    }
+    
+    .insta-img>img {
+        width: 100%;
+    }
+    
+    .instagram-imgs {
+        flex-direction: column;
+    }
+    
+    /* Instagram section end here */
+    /* Subscribe section start here  */
+    .subscrib-section {
+        width: 100%;
+        height: 449px;
+        margin: 0 auto;
+    }
+    
+    .subscrib-section>h3 {
+        font-size: 2em;
+    }
+    .email-subc {
+        margin: 10px a ;
+        width: 90%;
+        height: 64px;
+    }
+    
+    .email-subc[placeholder] {
+        padding: 12px;
+        font-size: 12px;
+    }
+    .sub-btn{
+        display: flex;
+        flex-direction: column;
+        gap: 5px;
+        width: 100%;
+    }
+    /* Subscribe section end here  */
+    
+    }
+/* width 768px */
+@media screen and (min-width:481px) and (max-width:768px) {
+        .btn {
+            padding: 10px 20px;
+        }
+        section {
+            margin: 60px auto;
+        }
+        
+        /* banner section style start here */
+        header {
+            height: auto;
+            padding: 10px;
+        }
+        .banner-taitel {
+            font-size: 2em;
+        }
+        
+        /* banner section style end here */
+        /* Our Featured Flowers section start here */
+        .featured-section-content {
+            width: 100%;
+            padding: 0 5px;
+        }
+        
+        .featured-section-content>h3 {
+            font-size: 2em;
+        }
+        .featured-section-img {
+          flex-wrap: wrap;
+        
+          width: 400px;
+          margin: 0 auto;
+          
+        }
+        .flower-img{
+            width:400px;
+            height: 400px;
+            margin: 0 auto;
+        }
+        .flower-img  >img {
+            width: 100%;
+            height: 100%;
+            
+        }
+        .flowers {
+            width: 100%;
+            margin: 10px auto;
+            height: auto;
+        }
+        .flower {
+         width: 95%;
+         margin: 0 auto;
+         height: auto;
+        }
+        
+        .flower-img-taitel {
+            font-size:1.2em;
+        }
+        
+        /* Our Featured Flowers section end here */
+        
+        /* Delivery and support section start here */
+        .delivery-and-support {
+            width: 100%;
+            height: auto;
+            flex-direction: column;
+            gap: 20px;
+            padding: 10px;
+        }
+        .del-sip-contant>p {
+            font-size: 1.2em;
+            text-align: center;
+        }
+        /* Delivery and support section end here */
+        /* Hot Deal ! Sale Up To 25% Off section start here */
+        .deal-section {
+         flex-direction: column;
+            height: auto;
+            padding: 20px 10px;
+        }
+        
+        .deal-contant {
+            width:100%;
+          text-align: center;
+            gap: 24px;
+        }
+        
+        .deal-contant>h3 {
+            font-size: 2em;
+        }
+        /* Hot Deal ! Sale Up To 25% Off section end here */
+        
+        /* Instagram section start here */
+        .insta-img {
+            width: 400px;
+            height: auto;
+            margin: auto 5% ;
+            margin: 0 auto;
+            
+        }
+        
+        .insta-img>img {
+            width: 100%;
+            
+            
+        }
+        
+        .instagram-imgs {
+            flex-direction: column;
+     
+        }
+        
+        /* Instagram section end here */
+        /* Subscribe section start here  */
+        .subscrib-section {
+            width: 100%;
+            height: 449px;
+            margin: 0 auto;
+        }
+        
+        .subscrib-section>h3 {
+            font-size: 2em;
+        }
+        .email-subc {
+            margin: 10px a ;
+            width: 90%;
+            height: 64px;
+        }
+        
+        .email-subc[placeholder] {
+            padding: 12px;
+            font-size: 12px;
+        }
+        .sub-btn{
+            display: flex;
+            flex-direction: column;
+            gap: 5px;
+            width: 100%;
+        }
+        /* Subscribe section end here  */
+        
+        }
+        /* size 1024  */
+        @media screen and (min-width:769px) and (max-width:1024px) {
+          
+            /* banner section style start here */
+            header {
+                height: auto;
+                padding: 10px;
+            }
+            .banner-taitel {
+                font-size: 2.5em;
+            }
+            
+            /* banner section style end here */
+            /* Our Featured Flowers section start here */
+            .featured-section-content {
+                width: 70%;
+                padding: 0 5px;
+            }
+            
+            .featured-section-content>h3 {
+                font-size: 2.5em;
+            }
+            .featured-section-img {
+              flex-wrap: wrap;
+              margin: 100px auto;
+              
+            }
+            .flower-img{
+                width:400px;
+                height: 400px;
+                margin: 0px auto;
+            }
+            .flower-img  >img {
+                width: 100%;
+                height: 100%;
+                
+            }
+            .flowers{
+                margin: 20px auto;
+            }
+            
+        
+            /* Our Featured Flowers section end here */
+            
+            /* Delivery and support section start here */
+            .delivery-and-support {
+                width: 100%;
+            }
+            .del-sip-contant>p {
+                font-size: 1.2em;
+                text-align: center;
+            }
+            /* Delivery and support section end here */
+           
+            
+           
+            
+            
+            
+            /* Instagram section end here */
+            /* Subscribe section start here  */
+            .subscrib-section {
+                width: 100%;
+                height: 449px;
+                margin: 0 auto;
+            }
+            
+            .subscrib-section>h3 {
+                font-size: 2em;
+            }
+            .email-subc {
+                margin: 10px a ;
+                width: 90%;
+                height: 64px;
+            }
+            
+            .email-subc[placeholder] {
+                padding: 12px;
+                font-size: 12px;
+            }
+            .sub-btn{
+                display: flex;
+                flex-direction: column;
+                gap: 5px;
+                width: 100%;
+            }
+            /* Subscribe section end here  */
+        }

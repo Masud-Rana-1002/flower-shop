@@ -6,7 +6,9 @@
     padding: 0;
     box-sizing: border-box;
 }
-
+.hide{
+    display: none;
+}
 .btn {
     border-radius: 8px;
     background: rgb(229, 84, 115);
@@ -25,6 +27,7 @@ body {
 
 section {
     margin: 120px auto;
+
 }
 
 /* banner section style start here */
